@@ -35,7 +35,7 @@ $C_L$ : 升力系數 <br>
 $\rho$ : 空氣密度 <br>
 $V$ : 相對於空氣的飛行速度 <br>
 $S$ : 機翼投影面積 <br>
-<img src=".\\pic\\攻角_升力系數.png" width = "30%"> <br>
+<img src="./pic/攻角_升力系數.png" alt="drawing" width = "30%"> <br>
 
 ### 定義
 機體座標系 B <br>
