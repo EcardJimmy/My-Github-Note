@@ -35,7 +35,7 @@ $C_L$ : 升力系數 <br>
 $\rho$ : 空氣密度 <br>
 $V$ : 相對於空氣的飛行速度 <br>
 $S$ : 機翼投影面積 <br>
-<img src="./pic/攻角_升力系數.png" width = "30%"> <br>
+<img src=".\pic\攻角_升力系數.png" width = "30%"> <br>
 
 ### 定義
 機體座標系 B <br>
@@ -52,7 +52,7 @@ $$p^{\left(w\right)} = {\frac 1 V}u^T\omega$$
 $\alpha_0$ : 零升力攻角 <br>
 $Cl_\alpha$: 升力曲線斜度 <br>
 $Cl_i$:升力系數在阻力最小位置<br>
-<img src="./Pic/Figure_3.7.png" width="50%"><br>
+<img src=".//Pic//Figure_3.7.png" width="50%"><br>
 通常: <br>
 $馬赫數M=0.2$ <br>
 $雷諾數R_e=9 \times 10^6$<br>
